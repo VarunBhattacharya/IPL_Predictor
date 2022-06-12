@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/76221455/173246445-054e91ef-fd95-4846-
 
 | Ver. No. |     Type     | Stability |                         Link                         |
 | :------: | :----------: | :-------: | :--------------------------------------------------: |
-|   v01    | Source Code  |  Stable   | <a href="IPL_Predictor.zip" download="">Download</a> |
+|   v01    | Source Code  |  Stable   | <a href="[IPL_Predictor.zip](https://github.com/VarunBhattacharya/IPL_Predictor/archive/refs/heads/main.zip)" download="">Download</a> |
 |   v01    | Portable Zip |    N/A    |                         N/A                          |
 |   v01    |   One File   |    N/A    |                         N/A                          |
 |   v01    |  Installer   |    N/A    |                         N/A                          |
