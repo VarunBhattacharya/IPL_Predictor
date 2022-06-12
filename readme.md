@@ -5,7 +5,7 @@ The Indian Premier League (IPL) is a professional men's Twenty20 cricket league,
 ## **Trailer**
 
 <video width="759" height="426" controls="">
-  <source src="IPLP_Trailer.mp4" type="video/mp4">
+  <source src="v01/build/videoDemo/IPLP_Trailer.mp4" type="video/mp4">
   Sorry, something's wrong.
 </video>
 
