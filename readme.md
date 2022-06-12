@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/76221455/173246445-054e91ef-fd95-4846-
 ##  **Requirements**
 - Windows Machine
 - 7z, WinRAR or similar alternative
-- Python3
+- Python3 and the necessary modules
 - XAMPP or similar alternative
 - A Modern Web-Browser
 
@@ -44,7 +44,8 @@ https://user-images.githubusercontent.com/76221455/173246445-054e91ef-fd95-4846-
 - Click on **"New"** from the Side Panel.
 - Type "Database name" as **"ipldb"** and click on create.
 - Click on the **Import** tab of the top screen and it will allow you to choose a file from any location.
-- Go to the folder, **"IPL_Predictor"**, we just moved to htdocs, get into the **"sql"** directory and choose **"ipldb.sql"**
+- Go to the folder, **"IPL_Predictor"**, we just moved to htdocs, get into the **"sql"** directory and choose **"ipldb.sql"**.
+- Run "requirements.bat" from the root directory.
 - Finally open up a browser and go to **"http://localhost/IPL_Predictor/SignUp.html"**.
 - Now it will load the SignUp page and your setup has been done.
 - **Create** an account - **Login** to your account - You will now see the **Dashboard**, and further you may proceed or watch the [Guide Video](#trailer) for more help.
