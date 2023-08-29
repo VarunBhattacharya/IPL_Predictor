@@ -27,7 +27,7 @@ def getAlgo():
     return algo
 
 def getWinner():
-    main.main()
+    predict.main.main()
     with open("temp.txt", "r") as file:
         winner = str(file.read()).strip()
     os.remove("temp.txt")
