@@ -1,13 +1,13 @@
 # !/usr/bin/env python
 import cgi
 import os
-import mysql.connector
+import pymysql
 import sys
 sys.path.insert(1,"predict")
-import main
+import predict.main
 
 def getAlgo():
-    conn = mysql.connector.connect(host = "localhost", port = "3306", user = "root", password = "", database = "ipldb")
+    conn = pymysql.connect(host = "localhost", port = 3306, user = "root", password = "", database = "ipldb")
 
     cursor = conn.cursor()
 
