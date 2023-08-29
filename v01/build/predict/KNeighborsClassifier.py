@@ -24,7 +24,7 @@ def knn_classifier(team1, team2):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3)
     clf = KNeighborsClassifier()
     clf = clf.fit(X_train,y_train)
-    y_pred = clf.predict(X_test)    
+    y_pred = clf.predict(X_test.values)    
     res = stats.mode(y_pred)
     res = int(res[0])
     if(abs(team1 - res) >= abs(team2-res)): return res
